@@ -62,7 +62,7 @@
       * 세 번째
       
 ## 5. 이미지(Images)
-!![image](https://user-images.githubusercontent.com/112451664/191161428-d56107a3-36a5-436f-b890-818171438626.png)
+![image](https://user-images.githubusercontent.com/112451664/191161428-d56107a3-36a5-436f-b890-818171438626.png)
 
     
   
